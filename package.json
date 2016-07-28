@@ -1,0 +1,23 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "nothing",
+  "dependencies": {
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjhkrcx/stream-adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjhkrcx/stream-adventure/issues"
+  },
+  "homepage": "https://github.com/wjhkrcx/stream-adventure#readme",
+  "main": "program1.js"
+}
