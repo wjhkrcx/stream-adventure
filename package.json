@@ -1,9 +1,15 @@
 {
   "name": "stream-adventure",
   "version": "1.0.0",
-  "description": "nothing",
+  "description": "",
   "dependencies": {
-    "through2": "^2.0.1"
+    "concat-stream": "^1.5.1",
+    "duplexer2": "^0.1.4",
+    "request": "^2.74.0",
+    "split": "^1.0.0",
+    "through2": "^2.0.1",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^3.2.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -18,6 +24,5 @@
   "bugs": {
     "url": "https://github.com/wjhkrcx/stream-adventure/issues"
   },
-  "homepage": "https://github.com/wjhkrcx/stream-adventure#readme",
-  "main": "program1.js"
+  "homepage": "https://github.com/wjhkrcx/stream-adventure#readme"
 }
